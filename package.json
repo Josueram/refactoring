@@ -1,0 +1,23 @@
+{
+  "name": "refactoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josueram/refactoring.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josueram/refactoring/issues"
+  },
+  "homepage": "https://github.com/Josueram/refactoring#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
