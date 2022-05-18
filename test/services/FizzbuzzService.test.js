@@ -20,5 +20,5 @@ describe("Unit Tests for FizzbuzzService class", () => {
     expect(Explorer2.trick).toBe("FIZZ");
     expect(Explorer3.trick).toBe("BUZZ");
     expect(Explorer4.trick).toBe("FIZZBUZZ");
-  })
+  });
 });
